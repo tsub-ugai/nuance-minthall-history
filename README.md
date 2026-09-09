@@ -1,9 +1,8 @@
 # ヌュアンスとmint hall（とO-Site）
 
-横浜駅南幸・相鉄ムービル3Fにあるライブハウス（Yokohama O-SITE → Yokohama mint hall）に
-ヌュアンスが立った全87公演をまとめた記録ページです。
-
+横浜駅南幸・相鉄ムービル3Fにあるライブハウス（Yokohama O-SITE → Yokohama mint hall）にヌュアンスが立った全87公演をまとめた記録ページです。
 2026年9月30日の mint hall 閉館にあたって作成しました。
+※ ファンによる非公式のアーカイブです。NUANCE および各会場とは関係ありません。
 
 ## 内容
 
@@ -39,4 +38,3 @@ SNS のプレビュー画像が表示されない場合は、`index.html` の `o
 - O-SITE 時代 … NUANCE 公式X（@nuance_official）の投稿
 - 会場情報 … mint hall 公式サイト、LiveFans、ヨコハマ経済新聞
 
-ファンによる非公式のアーカイブです。NUANCE および各会場とは関係ありません。
