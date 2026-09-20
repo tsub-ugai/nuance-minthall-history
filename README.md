@@ -30,11 +30,8 @@
 GitHub のリポジトリで Settings → Pages → Source を `Deploy from a branch`、
 Branch を `main` / `/ (root)` に設定します。
 
-SNS のプレビュー画像が表示されない場合は、`index.html` の `og:image` を絶対URLに変更してください。
-
-```html
-<meta property="og:image" content="https://<ユーザー名>.github.io/<リポジトリ名>/og-image.png">
-```
+`index.html` の `og:image` は絶対URL（`https://tsub-ugai.github.io/nuance-minthall-history/og-image.png`）に
+しています。リポジトリ名や公開URLを変える場合は、この値も合わせて変更してください。
 
 ## データの出所
 
